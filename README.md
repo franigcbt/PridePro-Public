@@ -14,5 +14,9 @@ If you are interested in discussing or learning more about this project, please 
 
 ## Screenshots
 
-![App Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2F%25C3%2581rbol&psig=AOvVaw3E3ez7kEd-o9jsRzTpbWEE&ust=1715193878410000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNity6CZ_IUDFQAAAAAdAAAAABAE)
+[Home](https://github.com/franigcbt/PridePro-Public/blob/main/Home%20Screen%20-%201.png)
+[LoginScreen](https://github.com/franigcbt/PridePro-Public/blob/main/Login.png)
+[LoginScreen](https://github.com/franigcbt/PridePro-Public/blob/main/Configuraci%C3%B3n.png)
+
+
 
